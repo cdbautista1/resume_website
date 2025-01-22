@@ -11,8 +11,8 @@ import {
 import GithubIcon from '../components/Icon/GithubIcon';
 import LinkedInIcon from '../components/Icon/LinkedInIcon';
 import heroImage from '../images/header-background.jpg';
-import porfolioImage6 from '../images/portfolio/portfolio-6.jpg';
 import profilepic from '../images/linkedinj.jpg';
+import porfolioImage6 from '../images/portfolio/portfolio-6.jpg';
 import testimonialImage from '../images/testimonial.webp';
 import {
   About,
